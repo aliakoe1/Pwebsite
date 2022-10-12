@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://aliakoe1.github.io/Pwebsite/sitemap.xml

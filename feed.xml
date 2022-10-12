@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>DH 150</title>
+    <link href="https://aliakoe1.github.io/Pwebsite/feed.xml" rel="self" />
+    <link href="https://aliakoe1.github.io/Pwebsite" />
+    <updated>2022-10-12T10:44:34-07:00</updated>
+    <author>
+        <name>Alia Koe</name>
+    </author>
+    <id>https://aliakoe1.github.io/Pwebsite</id>
+
+    <entry>
+        <title>ABOUT</title>
+        <author>
+            <name>Alia Koe</name>
+        </author>
+        <link href="https://aliakoe1.github.io/Pwebsite/about.html"/>
+        <id>https://aliakoe1.github.io/Pwebsite/about.html</id>
+
+        <updated>2022-10-12T10:44:34-07:00</updated>
+            <summary>
+                <![CDATA[
+                    My name is Alia Koe and I haven't had coffee today. sad. 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>My name is Alia Koe and I haven't had coffee today. sad. </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>woooohooooooo</title>
+        <author>
+            <name>Alia Koe</name>
+        </author>
+        <link href="https://aliakoe1.github.io/Pwebsite/woooohooooooo.html"/>
+        <id>https://aliakoe1.github.io/Pwebsite/woooohooooooo.html</id>
+
+        <updated>2022-10-12T10:39:27-07:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a picture of the ocean, 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://aliakoe1.github.io/Pwebsite/media/posts/2/IMG_1118.jpeg" sizes="100vw" srcset="https://aliakoe1.github.io/Pwebsite/media/posts/2/responsive/IMG_1118-xs.jpeg 300w ,https://aliakoe1.github.io/Pwebsite/media/posts/2/responsive/IMG_1118-sm.jpeg 480w ,https://aliakoe1.github.io/Pwebsite/media/posts/2/responsive/IMG_1118-md.jpeg 768w ,https://aliakoe1.github.io/Pwebsite/media/posts/2/responsive/IMG_1118-lg.jpeg 1024w ,https://aliakoe1.github.io/Pwebsite/media/posts/2/responsive/IMG_1118-xl.jpeg 1360w ,https://aliakoe1.github.io/Pwebsite/media/posts/2/responsive/IMG_1118-2xl.jpeg 1600w"  alt="" width="1136" height="852"></figure>This is a picture of the ocean, </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
